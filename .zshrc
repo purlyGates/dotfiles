@@ -113,3 +113,8 @@ export NVM_DIR="$HOME/.nvm"
 
 # ─── Starship prompt ──────────────────────────────────────────────────────────
 eval "$(starship init zsh)"  # changed: bash → zsh
+<<<<<<< HEAD
+=======
+
+source ~/.secrets
+>>>>>>> 4685015 (externalized secrets)
