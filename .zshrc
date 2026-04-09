@@ -113,8 +113,19 @@ export NVM_DIR="$HOME/.nvm"
 
 # ─── Starship prompt ──────────────────────────────────────────────────────────
 eval "$(starship init zsh)"  # changed: bash → zsh
-<<<<<<< HEAD
-=======
 
 source ~/.secrets
->>>>>>> 4685015 (externalized secrets)
+
+# ─── Git ─────────────────────────────────────────────────────────
+alias g='git'
+alias gs='git status'
+alias ga='git add'
+alias gaa='git add .'
+alias gc='git commit -m'
+alias gp='git push'
+alias gpl='git pull'
+alias gd='git diff'
+alias gdc='git diff --cached'
+alias gl='git log --oneline --graph --decorate'
+alias gb='git branch'
+
