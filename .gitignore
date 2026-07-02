@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor swap/backup
+*.swp
+*~
+
+# Never commit secrets or machine-specific state
+**/auth.json
+**/trust.json
+**/sessions/
+**/.env
+**/.env.*
+**/*.key
+**/*.pem
+**/id_rsa
+**/id_ed25519
+**/known_hosts
+
+# Caches / generated
+**/node_modules/
+**/npm/
+**/git/
+**/.cache/
