@@ -1,0 +1,7 @@
+# AUR packages (all phases combined)
+
+hyprland-guiutils
+hyprland-preview-share-picker
+cliamp
+# obsidian    # uncomment if not available in extra
+# tzupdate    # optional: auto timezone by IP

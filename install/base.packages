@@ -1,0 +1,26 @@
+# Core desktop: Hyprland stack (official repo)
+# See docs/ARCHPACKAGES.md phase 2
+
+hyprland
+hypridle
+hyprlock
+hyprpicker
+hyprsunset
+uwsm
+waybar
+mako
+swaybg
+swayosd
+fuzzel
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+xdg-terminal-exec
+xdg-user-dirs
+polkit-gnome
+sddm
+plymouth
+qt5-wayland
+qt6-wayland
+kvantum-qt5
+gnome-themes-extra
+yaru-icon-theme

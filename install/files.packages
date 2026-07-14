@@ -1,0 +1,14 @@
+# File manager / viewers / creative (phase 8)
+
+nautilus
+nautilus-python
+sushi
+gnome-disk-utility
+gvfs-nfs
+gvfs-smb
+imv
+mpv
+evince
+pinta
+kdenlive
+libreoffice-fresh

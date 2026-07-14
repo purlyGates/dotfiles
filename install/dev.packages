@@ -1,0 +1,6 @@
+# Dev toolchain (phase 12)
+
+git
+docker
+docker-buildx
+docker-compose

@@ -1,0 +1,13 @@
+# System, power, network, security (phase 14)
+
+iwd
+wireless-regdb
+ufw
+power-profiles-daemon
+brightnessctl
+kernel-modules-hook
+dosfstools
+exfatprogs
+gnome-keyring
+libsecret
+openssh

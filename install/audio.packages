@@ -1,0 +1,11 @@
+# Audio / media stack (phase 10)
+
+wireplumber
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+gst-plugin-pipewire
+libpulse
+pamixer
+playerctl
+alsa-utils
