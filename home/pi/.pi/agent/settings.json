@@ -32,7 +32,8 @@
     "github-copilot/grok-code-fast-1"
   ],
   "packages": [
-    "git:github.com/jonjonrankin/pi-caveman"
+    "git:github.com/jonjonrankin/pi-caveman",
+    "npm:pi-web-access"
   ],
   "theme": "dark",
   "hideThinkingBlock": true
